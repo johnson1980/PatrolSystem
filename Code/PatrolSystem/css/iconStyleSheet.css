@@ -1,0 +1,19 @@
+﻿.system {
+    background-image: url(../images/system.png)!important;
+}
+
+.mainIcon {
+    background-image: url(../images/accept.png)!important;
+}
+
+.test1 {
+    background-image: url(../images/accept.png)!important;
+}
+
+.test2 {
+    background-image: url(../images/accept.png)!important;
+}
+
+.logout {
+    background-image: url(../images/door_out.png)!important;
+}

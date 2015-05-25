@@ -1,0 +1,16 @@
+W:\C#\Study\PatrolSystem\PatrolSystem\PatrolSystem\obj\Debug\PatrolSystem.csproj.GenerateResource.Cache
+W:\C#\Study\PatrolSystem\PatrolSystem\PatrolSystem\bin\PatrolSystem.dll.config
+W:\C#\Study\PatrolSystem\PatrolSystem\PatrolSystem\bin\PatrolSystem.dll
+W:\C#\Study\PatrolSystem\PatrolSystem\PatrolSystem\bin\PatrolSystem.pdb
+W:\C#\Study\PatrolSystem\PatrolSystem\PatrolSystem\bin\Newtonsoft.Json.dll
+W:\C#\Study\PatrolSystem\PatrolSystem\PatrolSystem\obj\Debug\PatrolSystem.Properties.Resources.resources
+W:\C#\Study\PatrolSystem\PatrolSystem\PatrolSystem\obj\Debug\PatrolSystem.dll
+W:\C#\Study\PatrolSystem\PatrolSystem\PatrolSystem\obj\Debug\PatrolSystem.pdb
+W:\C#\Study\PatrolSystem\PatrolSystem\bin\PatrolSystem.dll.config
+W:\C#\Study\PatrolSystem\PatrolSystem\bin\PatrolSystem.dll
+W:\C#\Study\PatrolSystem\PatrolSystem\bin\PatrolSystem.pdb
+W:\C#\Study\PatrolSystem\PatrolSystem\bin\Newtonsoft.Json.dll
+W:\C#\Study\PatrolSystem\PatrolSystem\obj\Debug\PatrolSystem.Properties.Resources.resources
+W:\C#\Study\PatrolSystem\PatrolSystem\obj\Debug\PatrolSystem.csproj.GenerateResource.Cache
+W:\C#\Study\PatrolSystem\PatrolSystem\obj\Debug\PatrolSystem.dll
+W:\C#\Study\PatrolSystem\PatrolSystem\obj\Debug\PatrolSystem.pdb
